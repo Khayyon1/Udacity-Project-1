@@ -35,3 +35,8 @@ Likewise, no model evaluation was needed for the questions asked for this projec
 
 ## Deployment
 N/A
+
+# Files
+* <b><em>data/</b></em> - directory containing all the csv files used throughout the notebook in the repository.
+* <b><em>README.md/</b></em> - currently reading it 
+* <b><em>stackoverflow_2021.ipynb/</b></em> - interactive python notebook that is used to explore the data in the data directory
