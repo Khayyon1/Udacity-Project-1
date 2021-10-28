@@ -36,6 +36,24 @@ Likewise, no model evaluation was needed for the questions asked for this projec
 ## Deployment
 N/A
 
+# Summary
+  between 2019 - 2021, developers seem to really be fond of 
+  * Javascript
+  * HTML/CSS
+  * SQL
+  * Python
+  
+  Developers who contributed more frequently to open-source projects desired to use
+  technologies like Node.js, Tensorflow and NET Core. Developers who never contribute to open-source projects desired similar tools
+  
+  # Next Steps 
+  I could add more survey data from previous years to get a better idea of the changing trend in desired technologies. Currently this notebook only uses 2019 - 2021, which is a small timeframe to be drawing any big conclusions from. Maybe after increasing the amount of time from 2019 - 2021 to maybe 2010 - 2021 (i.e. a decade of data) then maybe this can be used to create a model that can guess the trend for the next year.
+
+# Libraries 
+* Numpy
+* Matplotlib
+* Pandas
+
 # Files
 * <b><em>data/</b></em> - directory containing all the csv files used throughout the notebook in the repository.
 * <b><em>README.md/</b></em> - currently reading it 
