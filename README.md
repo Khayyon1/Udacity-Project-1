@@ -15,7 +15,7 @@ The anticipated payoff is just more knowledge about the most commonly used techn
  The data being used is StackOverflow survey data that was taken by developers who use and are active on the platform. This has entries recording salary, education level, location, technologies used (databases used, platforms used, languages used, etc), Mental Health, Employment Type (i.e. Full-Time, Part-Time, Student, Unemployed, etc). This can be used to answer some questions in regard to developers based on these results.
  
 * How is our data quality?<br>
-  The data set between the years have some similarities, like languages worked with, ethnicity, salary and etc. But their were columns that had several NaN, another interesting thing that occured was the different schemas and columns that appeared between the survey for different years. This did not affect the analysis though because the nature of the questions were geared towards specity things like language and etc between different groups (i.e. open-source contributers, etc)
+  The data set between the years have some similarities, like languages worked with, ethnicity, salary and etc. But their were columns that had several NaN, another interesting thing that occurred was the different schemas and columns that appeared between the survey for different years. This did not affect the analysis though because the nature of the questions were geared towards specific things like language and etc between different groups (i.e. open-source contributers, etc)
 
 ## Data Preparation
 * Did we select the right data?<br>
